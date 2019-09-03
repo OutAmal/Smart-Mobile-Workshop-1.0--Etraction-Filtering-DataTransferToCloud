@@ -1,8 +1,7 @@
 ### Smart-Mobile-Workshop-1.0--Extraction-Filtering-DataTransferToCloud
-# Ce repositiry est reservé à la premiere partie du projet qui est l'extraction, 
-# et le filtrage ainsi que l'envoi des données au Cloud.
+# Ce repositiry est reservé à la premiere partie du projet qui est l'extraction,le filtrage ainsi que l'envoi des données au Cloud.
 
-## l faut faire attention dans l'implementation du Code :
+## Il faut faire attention dans l'implementation du Code :
 
  # 1- A la version de Python installé dans votre OS: Création d'un environnement virtuel pour une version différente
    #                                                   à ce que vous avez, puis source env/bin/activate.
