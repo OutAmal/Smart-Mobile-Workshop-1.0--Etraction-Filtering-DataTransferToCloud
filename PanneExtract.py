@@ -19,28 +19,7 @@ def Classification(list=[]):
     else :
         return  ("UGC")    
                 
-            #return extract[0]
-    #def Voiture(self,str):
-    #    extract = re.findall(r'(?<=uic:)[0-9]+',str)
-     #   if   extract != []:
-      #      if  extract[0] is not None:
-       #           print ( extract [0])    
-       
-        
-#def mainExtract(element):
- #   element = Panne()
-  #  element.code()
-   # element.Voiture()
-   #element.time()
-       #ser=serial.Serial('/dev/ttyACM0',38400,timeout=1)
-       #data=ser.readlines()
-    #Code = re.findall(r'(?<=code:)[0-9-a-zA-Z]+', element)
-    #Voiture=re.findall(r'(?<=uic:)[0-9]+',element)
-    #time = datetime.now().strftime("%B %d, %Y %I:%M%p")
-    #if Code != []:
-     #          print(Code[0], Voiture [0], time, Class(int(Code[0], 16)))
-#if __name__=="__main__":
- #   mainExtract (element)
+           
 
     
 
