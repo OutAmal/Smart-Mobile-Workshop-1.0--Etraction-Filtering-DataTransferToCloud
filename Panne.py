@@ -185,7 +185,7 @@ def mqtt_device_demo(args):
             time.sleep(delay)
             minimum_backoff_time *= 2
             client.connect(args.mqtt_bridge_hostname, args.mqtt_bridge_port)
-      # data = ser.readlines()
+      # data = ser.readlines() 
         text=open('text.txt','r')
         data = text.readlines()
         for j in data:
